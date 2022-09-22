@@ -1,5 +1,5 @@
 var utils = require('./utils.js');
-var React = global.React || require('react');
+var React = require('react');
 
 var convertValidationsToObject = function (validations) {
 

@@ -1,4 +1,4 @@
-var React = global.React || require('react');
+var React = require('react');
 var Mixin = require('./Mixin.js');
 module.exports = function () {
   return function (Component) {
